@@ -18,8 +18,8 @@
   <rect width="120" height="35" fill="#282828"/>
   <g transform="translate(2, 2)" id="button">
     <rect x="0" y="0" width="51" height="25" ry="2" fill="url(#button-bg)" filter="url(#drop-shadow)"/>
-    <rect x="0.5" y="0.5" width="50" height="24" ry="1.5" fill="none" stroke="#98971a" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="25" y="17" text-anchor="middle" font-family="sans-serif" font-size="9.75pt" fill="#98971a">Button</text>
+    <rect x="0.5" y="0.5" width="50" height="24" ry="1.5" fill="none" stroke="#ebdbb2" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="25" y="17" text-anchor="middle" font-family="sans-serif" font-size="9.75pt" fill="#ebdbb2">Button</text>
   </g>
   <g transform="translate(60, 6)" id="check">
     <rect x="0.5" y="0.5" width="15" height="15" ry="1.5" fill="none" stroke="#458588" stroke-opacity="0.3"/>
